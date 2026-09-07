@@ -1,6 +1,8 @@
 ---
-layout: post
 title: "Traverse context without ingesting it."
+date: 2026-09-07 12:00:00 -0400
+categories: [Tools, CLI]
+tags: [surf, context, agents]
 ---
 
 I published my `surf` tool. Source is at [https://github.com/saintx/surf-cli](https://github.com/saintx/surf-cli)
