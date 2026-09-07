@@ -19,6 +19,8 @@ social:
   links:
     - https://github.com/saintx
 
+avatar: /assets/img/avatar.png
+
 paginate: 10
 toc: true
 
