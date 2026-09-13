@@ -78,6 +78,7 @@ exclude:
   - vendor
   - chirpy_defaults
   - Gemfile
+  - drafts
 
 jekyll-archives:
   enabled: [categories, tags]
